@@ -19,4 +19,10 @@ PRINT SETUP------>SELECT TRAY2------>A4LEF
 "Expand the file (e.g., tar -xf *.gz) and then run the setup script (i.e. sudo ./setup)"
 
 -[i2620Scanner Ubuntu18.04 64bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
+<p>the following command must be entered in a terminal window:</p>
+
+```
+sudo ln -sfr /usr/lib/sane/libsane-kds* /usr/lib/x86_64-linux-gnu/sane
+
+```
 
