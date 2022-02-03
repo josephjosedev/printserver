@@ -13,5 +13,10 @@ PRINT SETUP------>SELECT TRAY2------>A4LEF
 
 **KODAK i2620 Scanner**
 
-[i2620scanner ubuntu 32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
+- [i2620Scanner ubuntu16.04 32bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.i586.deb.tar.gz)
+- [i2620Scanner Ubuntu16.04 64bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
+
+"Expand the file (e.g., tar -xf *.gz) and then run the setup script (i.e. sudo ./setup)"
+
+-[i2620Scanner Ubuntu18.04 64bit](https://resources.kodakalaris.com/docimaging/drivers/LinuxSoftware_i2000_v4.14.x86_64.deb.tar.gz)
 
