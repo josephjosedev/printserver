@@ -26,3 +26,5 @@ sudo ln -sfr /usr/lib/sane/libsane-kds* /usr/lib/x86_64-linux-gnu/sane
 
 ```
 
+**EPSON Printer Driver**
+
