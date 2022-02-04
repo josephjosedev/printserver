@@ -29,11 +29,16 @@ sudo ln -sfr /usr/lib/sane/libsane-kds* /usr/lib/x86_64-linux-gnu/sane
 **EPSON Printer Driver**
 - [Download Epson drivers and Software](http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX)
 
-After that install `printer utility` of specified printer and Download Printer Driver  ESC/P Driver (full feature).
+
 >[Notice]
 In order to install these drivers, you need to install LSB package (version 3.2 or later) beforehand.
+
+Ubuntu:
 ```
-Ubuntu: # apt install lsb
+sudo apt-get install lsb
+```
+After that install `printer utility` of specified printer and Download Printer Driver  ESC/P Driver (full feature).
+
 Fedora: # yum install lsb
 openSUSE: # yast --install lsb
 
