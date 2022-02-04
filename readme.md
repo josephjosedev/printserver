@@ -56,6 +56,7 @@ After that install `printer utility` of specified printer and Download `Printer 
 
 
 **Common printer & Scanner issues**
+
 **Brothr HL-L5100DN**
 - Reset process
 1. Make sure the machine is turned on.
