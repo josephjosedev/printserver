@@ -53,6 +53,9 @@ dpkg --print-architecture
 After that install `printer utility` of specified printer and Download `Printer Driver  ESC/P Driver (full feature)`.
 >Then go to settings check list printer drivers if you find your printer **Congratulations!!!**
 
+**CANON PRINTER DRIVERS**
+- [install canon printers](https://in.canon/en/support/)
+
 
 
 
