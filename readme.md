@@ -38,7 +38,8 @@ yast --install lsb
 ```
 dpkg --print-architecture
 ```
-After that install `printer utility` of specified printer and Download `Printer Driver  ESC/P Driver (full feature)`.
+After that install `printer utility` of specified printer`.
+>If the printer is not installed after installing the printer utility driver, please install `ESC / P`, short for Epson Standard Code for Printers.
 >Then go to settings check list printer drivers if you find your printer **Congratulations!!!**
 
 **CANON PRINTER DRIVERS**
