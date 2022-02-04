@@ -43,7 +43,12 @@ After that install `printer utility` of specified printer`.
 >Then go to settings check list printer drivers if you find your printer **Congratulations!!!**
 
 **CANON PRINTER DRIVERS**
-- [install canon printers](https://in.canon/en/support/)
+- [install canon Drivers](https://in.canon/en/support/)
+
+**Brother Printer**
+
+- [INSTALL Brother DriverS](https://support.brother.com/g/b/productsearch.aspx?c=in&lang=en)
+
 
 
 
