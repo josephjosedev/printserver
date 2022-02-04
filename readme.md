@@ -37,14 +37,23 @@ Ubuntu:
 ```
 sudo apt-get install lsb
 ```
+Fedora:
+```
+yum install lsb
+```
+openSUSE:
+```
+yast --install lsb
+```
+
 >check your Architecture of your system
 ```
 dpkg --print-architecture
 ```
 After that install `printer utility` of specified printer and Download `Printer Driver  ESC/P Driver (full feature)`.
 
-Fedora: # yum install lsb
-openSUSE: # yast --install lsb
+ 
+ 
 
 ```
 
