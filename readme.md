@@ -49,6 +49,8 @@ After that install `printer utility` of specified printer`.
 
 - [INSTALL Brother DriverS](https://support.brother.com/g/b/productsearch.aspx?c=in&lang=en)
 
+**HP PRINTER INSTALLATION**
+
 
 
 
