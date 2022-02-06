@@ -64,6 +64,8 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 
 >**Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.**
 
+>To run the installation file it is not required to use sudo to get root privileges. In the terminal type the following command: `./hplip-.*..run`
+
 
 
 
