@@ -50,6 +50,7 @@ After that install `printer utility` of specified printer`.
 - [INSTALL Brother DriverS](https://support.brother.com/g/b/productsearch.aspx?c=in&lang=en)
 
 **HPLIP Driver Installation Process**
+
 1.First, download the latest HPLIP(HP Linux Imaging and Printing) driver from [website](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
 >Open a terminal
@@ -68,6 +69,7 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 
 > **Note that the command starts with . (dot) / (slash) followed by the complete filename and ending on . (dot) run!**
 > before the installation procedure starts the user must choose whether to install the driver manually **(press c for custom)** or automatically **(press a for automatic).** Best is to execute the installation procedure manually (custom) so that every step can be controlled and monitored by the user.
+> The installation procedure will check for missing ask if older versions of the HPLIP driver must be removed. Confirm that this should be done to avoid any conflicts with older package versions.
 
 
 
