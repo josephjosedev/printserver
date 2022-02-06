@@ -66,6 +66,9 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 
 >To run the installation file it is not required to use sudo to get root privileges. In the terminal type the following command: `./hplip-.*..run`
 
+> **Note that the command starts with . (dot) / (slash) followed by the complete filename and ending on . (dot) run!**
+> before the installation procedure starts the user must choose whether to install the driver manually **(press c for custom)** or automatically **(press a for automatic).** Best is to execute the installation procedure manually (custom) so that every step can be controlled and monitored by the user.
+
 
 
 
