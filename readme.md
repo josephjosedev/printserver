@@ -54,8 +54,15 @@ After that install `printer utility` of specified printer`.
 2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
 >Open a terminal
 Browse to the Downloads folder: `cd Downloads`
+
 >
 Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is where the version number of the file needs to be filed in)
+
+>Press Enter and if required, type the user password and press Enter
+
+>The HPLIP driver is now executable. Keep the terminal open.
+
+>**Do not switch on the printer during the installation procedure!!! If the printer is switched on, make sure it is switched off before starting the installation procedure.**
 
 
 
