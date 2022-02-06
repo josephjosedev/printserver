@@ -70,6 +70,8 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 > **Note that the command starts with . (dot) / (slash) followed by the complete filename and ending on . (dot) run!**
 > before the installation procedure starts the user must choose whether to install the driver manually **(press c for custom)** or automatically **(press a for automatic).** Best is to execute the installation procedure manually (custom) so that every step can be controlled and monitored by the user.
 > The installation procedure will check for missing ask if older versions of the HPLIP driver must be removed. Confirm that this should be done to avoid any conflicts with older package versions.
+> Always restart the computer, re-plugging in the printer doesn't always work. By restarting the computer and after logging in switching on the printer, the user forces Ubuntu to search for any printers connected.
+> **HPLIP Driver installed Successfully!!**
 
 
 
