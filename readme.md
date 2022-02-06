@@ -52,6 +52,12 @@ After that install `printer utility` of specified printer`.
 **HPLIP Driver Installation Process**
 1.First, download the latest HPLIP(HP Linux Imaging and Printing) driver from [website](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip)
 2.Secondly: after downloading the file it needs to be made executable. To do this, the following needs to be done:
+>Open a terminal
+Browse to the Downloads folder: `cd Downloads`
+>
+Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is where the version number of the file needs to be filed in)
+
+
 
 
 
