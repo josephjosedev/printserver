@@ -105,6 +105,8 @@ PRINT SETUP------>SELECT TRAY1------>A4LEF
 PRINT SETUP------>SELECT TRAY2------>A4LEF
 
 
+**Ink flushing**
+
 
 
 
