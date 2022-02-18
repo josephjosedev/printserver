@@ -42,7 +42,8 @@ After that install `printer utility` of specified printer`.
 >If the printer is not installed after installing the printer utility driver, please install `ESC / P`, short for Epson Standard Code for Printers.
 >Then go to settings check list printer drivers if you find your printer **Congratulations!!!**
 
-**CANON PRINTER DRIVERS**
+**Canon Printer Drivers**
+
 - [install canon Drivers](https://in.canon/en/support/)
 
 **Brother Printer**
