@@ -77,6 +77,11 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 > **HPLIP Driver installed Successfully!!**
 
 
+**CANON**
+
+-[VIDEO](https://www.youtube.com/watch?v=xIedftYtmHY)
+
+
 
 
 
