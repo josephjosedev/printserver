@@ -79,7 +79,7 @@ Then type the following command: `sudo chmod +x hplip-*.**.**.run`(*.**.** is wh
 
 **CANON**
 
--[VIDEO](https://www.youtube.com/watch?v=xIedftYtmHY)
+- [VIDEO](https://www.youtube.com/watch?v=xIedftYtmHY)
 
 
 
